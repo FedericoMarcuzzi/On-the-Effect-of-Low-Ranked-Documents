@@ -1,7 +1,4 @@
-Paper code of "On the Effect of Low-Ranked Documents: A New Sampling Function for Selective Gradient Boosting"
-
-
-Filtering out Outliers in Learning to Rank
+On the Effect of Low-Ranked Documents: A New Sampling Function for Selective Gradient Boosting
 ===============================
 
 This code is for the SAC 2023 full paper [On the Effect of Low-Ranked Documents: A New Sampling Function for Selective Gradient Boosting](https://doi.org/10.1145/3555776.3577597).
