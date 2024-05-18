@@ -85,3 +85,6 @@ class SelGB():
                 clean_queries, clean_labels, clean_qs_lens = remove_docs(self.queries, self.labels, self.qs_len, idx_to_removed)
               
         return model
+    
+    def get_eval_results(self):
+        return self.eval_results
